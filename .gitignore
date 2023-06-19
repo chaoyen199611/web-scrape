@@ -5,8 +5,8 @@ test.py
 
 /node_modules/
 
-/web-scrape/.*
+./web-scrape/.erb/
 
-/web-scrape/assets/
+./web-scrape/assets/
 
 /release/
