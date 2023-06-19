@@ -1,0 +1,12 @@
+
+sample.json
+
+test.py
+
+/node_modules/
+
+/web-scrape/.*
+
+/web-scrape/assets/
+
+/release/
